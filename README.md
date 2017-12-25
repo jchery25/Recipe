@@ -11,14 +11,6 @@ The following **technologies** were used to complete this website:
 
 * HTML/CSS
 
-## Video Walkthrough 
-
-Below is a link to a walkthrough of the website:
-
-<img src= 'https://i.imgur.com/paMfeRe.gif' title='Video Walkthrough' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Link 
 
 <a href= 'http://cheryville.com/webdesign/week5/assignment04.html'>Recipe</a>
