@@ -11,10 +11,6 @@ The following **technologies** were used to complete this website:
 
 * HTML/CSS
 
-## Link 
-
-<a href= 'http://cheryville.com/webdesign/week5/assignment04.html'>Recipe</a>
-
 
 ## Ackowledgement
 
